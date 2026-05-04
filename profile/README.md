@@ -1,20 +1,21 @@
 <div align="center">
 
 # ⚖️ THE CYBER JUSTICE ORGANIZATION ⚖️
-### ──── 𝖲𝖳𝖱𝖠𝖳𝖤𝖦𝖨𝖢 𝖲𝖮𝖵𝖤𝖱𝖤𝖨𝖦𝖭𝖳𝖸 & 𝖣𝖨𝖦𝖨𝖳𝖠𝖫 𝖠𝖴𝖣𝖨𝖳𝖨𝖭𝖦 ────
+### ──── 𝖲𝖳𝖱𝖠𝖳𝖨𝖦𝖨𝖢 𝖲𝖮𝖵𝖤𝖱𝖤𝖨𝖦𝖭𝖳𝖸 & 𝖣𝖨𝖦𝖨𝖳𝖠𝖫 𝖠𝖴𝖣𝖨𝖳𝖨𝖭𝖦 ────
 
 「 𝖴𝖭𝖨𝖳𝖤𝖣 𝖡𝖸 𝖢𝖮𝖣𝖤 . 𝖣𝖱𝖨𝖵𝖤𝖭 𝖡𝖸 𝖩𝖴𝖲𝖳𝖨𝖢𝖤 」
 
 ---
 
+[![Official Website](https://img.shields.io/badge/OFFICIAL-WEBSITE-black?style=for-the-badge&logo=vercel)](https://cyberjustice.vercel.app/)
 [![HQ Discord](https://img.shields.io/badge/ORG_HUB-DISCORD-7289da?style=for-the-badge&logo=discord)](https://discord.com/invite/JfcBQwn2mq)
+[![Official Email](https://img.shields.io/badge/EMAIL-PROTON-6d4aff?style=for-the-badge&logo=protonmail)](mailto:cyberjustice.se@proton.me)
 [![Registry](https://img.shields.io/badge/REGISTRY-SWEDEN%20%F0%9F%87%B8%F0%9F%87%AA-blue?style=for-the-badge)](#)
-[![Operational Status](https://img.shields.io/badge/OPERATIONS-ACTIVE-green?style=for-the-badge)](#)
 
 </div>
 
 ## 🌐 ORGANIZATION OVERVIEW
-The **Cyber Justice Organization (CJ)** is a centralized technical entity dedicated to the purification of the digital software landscape. We operate as an institutional firewall against malicious development practices. Our organization provides a structured environment for security researchers, developers, and auditors to collaborate under a unified set of ethical and technical statutes.
+The **Cyber Justice Organization (CJ)** is a centralized technical entity dedicated to the purification of the digital software landscape. We operate as an institutional firewall against malicious development practices. Our mission focuses on identifying vulnerabilities in community-driven software and maintaining a "Blacklist" of malicious entities to protect the community.
 
 ---
 
@@ -26,9 +27,9 @@ The **Cyber Justice Organization (CJ)** is a centralized technical entity dedica
 *   **Operational Core:** All assets, repositories, and communications are governed by the official **Codex of Cyber Justice**.
 
 ### 🛡️ INSTITUTIONAL STATUTES (OPSEC)
-*   **Enterprise Security:** Mandatory Multi-Factor Authentication (2FA) is enforced across all organizational assets to prevent unauthorized access.
+*   **Enterprise Security:** Mandatory Multi-Factor Authentication (2FA) is enforced across all organizational assets.
 *   **Data Integrity:** We utilize strict encryption and private arbitration for all internal disputes and sensitive data handling.
-*   **Ethics & Neutrality:** The organization maintains a strictly neutral stance in community conflicts unless institutional safety is compromised.
+*   **Zero-Dox Policy:** Sharing personal real-life data of any member is a Tier-1 violation.
 
 ---
 
@@ -39,22 +40,24 @@ The **Cyber Justice Organization (CJ)** is a centralized technical entity dedica
 
 ---
 
-## 🗺️ STRATEGIC ROADMAP
+## 📅 STRATEGIC ROADMAP
 *   **Phase I (Internal):** Infrastructure development and member induction via merit-based invitations.
-*   **Phase II (External):** Official non-profit registration in Sweden (Summer 2026) to formalize our legal presence.
+*   **Phase II (Formalization):** Formalizing our legal and non-profit structure in Sweden, scheduled for **Summer 2026**.
 
 ---
 
-## 📡 OFFICIAL ACCESS
-For verified auditing requests, partnership inquiries, or community support, join the official HQ:
+## 📡 OFFICIAL ACCESS & CONTACT
+For official inquiries, arbitration, partnership requests, or community support, use the following channels:
 
-👉 [**ENTER THE CYBER JUSTICE COMMAND CENTER**](https://discord.com/invite/JfcBQwn2mq)
+🌍 [**OFFICIAL WEBSITE**](https://cyberjustice.vercel.app/)  
+💬 [**HQ DISCORD SERVER**](https://discord.com/invite/JfcBQwn2mq)  
+📧 [**SECURE EMAIL (PROTON)**](mailto:cyberjustice.se@proton.me)
 
 ---
 
 <div align="center">
 
-`ORG VERSION: 2.1.0 | 2026 OFFICIAL`  
+`ORG VERSION: 2.3.0 | 2026 OFFICIAL`  
 **"IN CODE WE TRUST. IN JUSTICE WE SERVE."**
 
 </div>
